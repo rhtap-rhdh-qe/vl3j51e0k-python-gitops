@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vl3j51e0k-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vl3j51e0k-python
